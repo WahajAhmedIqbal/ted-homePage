@@ -6,5 +6,45 @@
 
 #container
 {
+    background-color: chartreuse;
     font-family: Helvetica ,Helvetica,Arial,sans-serif; 
 }
+.row
+{
+        margin-right: 0px;
+}
+.ted
+{
+    margin-top: -6px;
+}
+.idea
+{
+    margin-top: 18px;
+    margin-left: -40px;
+    color: #999;
+}
+.nav
+{
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+  }
+li {
+    float: right;
+}
+li a {
+    display: block;
+    color: #111;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  .active {
+    background-color: #4CAF50;
+  }
