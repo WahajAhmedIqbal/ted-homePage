@@ -1,9 +1,15 @@
-.head
+/* .header
 {
     height: 65px;
     background-color: blanchedalmond;   
+} */
+.nv
+{
+    position: absolute;
+    top: 0px;
+    right: 35px;
 }
-/* ul
+ul
 {
     list-style: none;
     overflow: hidden;
@@ -20,9 +26,10 @@ li a
     font-weight: 800;
     font-size: medium;
     cursor: pointer;
+    color: #000000;
 }
 li a:hover
 {
     background-color: seagreen;
     text-decoration: none;
-} */
+}
