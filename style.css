@@ -8,6 +8,7 @@
     position: absolute;
     top: 0px;
     right: 35px;
+    z-index: 10;
 }
 ul
 {
@@ -30,7 +31,7 @@ li a
 }
 li a:hover
 {
-    background-color: #999999;
+    background-color: snow;
     text-decoration: none;
 }
 .navbar-dark .navbar-toggler {
@@ -40,5 +41,12 @@ li a:hover
 }
 .slider
 {
-    
+
+}
+.lef-sd
+{
+}
+.right-sd
+{
+
 }
