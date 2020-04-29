@@ -30,6 +30,15 @@ li a
 }
 li a:hover
 {
-    background-color: seagreen;
+    background-color: #999999;
     text-decoration: none;
+}
+.navbar-dark .navbar-toggler {
+    background-color: black;
+    /* color: rgba(255,255,255,.5); */
+    /* border-color: rgba(255,255,255,.1); */
+}
+.slider
+{
+    
 }
